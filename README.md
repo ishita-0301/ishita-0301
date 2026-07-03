@@ -90,10 +90,6 @@ pinned below — quick links:
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ishita-0301&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&include_all_commits=true&count_private=true&hide_rank=true&custom_title=GitHub%20Stats"/>
-&nbsp;
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishita-0301&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&langs_count=6&custom_title=Top%20Languages"/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ishita-0301&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=c084fc&line=7aa2f7&point=c0caf5&area=true&area_color=7aa2f7"/>
 
 </div>
