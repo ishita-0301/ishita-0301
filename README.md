@@ -80,7 +80,7 @@ pinned below — quick links:
 - **[SimRUN](https://github.com/devlup-labs/simrun)** - distributed systems latency simulator (C++, System Design)
 - **[dbworkbench](https://github.com/IshatV412/dbworkbench)** - version-controlled SQL workbench with Kafka rollback engine (PostgreSQL, FastAPI, Redis)
 - **[Peer-Link](https://github.com/RounakChoudhary/Peer-Link)** - decentralized P2P network on raw TCP sockets (Python, Multithreading)
-- **[CV on Rover](https://github.com/ishita-0301/CV_on_Rover)** - real-time gesture recognition and object detection on Raspberry Pi (PyTorch, OpenCV, YOLOv5, MediaPipe)
+- **[CV on Rover](https://github.com/ishita-0301/CV_on_Rover)** - hand-gesture-controlled rover with live camera streaming between two Raspberry Pis (Python, OpenCV, MediaPipe, gpiozero)
 - **[Maze Pathfinding Algorithms](https://github.com/Parrva-Shah/Maze_Pathfinding_Algorithms)** - DFS / BFS / Dijkstra / A* visualizer (C++, SFML)
 - **[The Hive](https://github.com/divyansh-1009/The-Hive)** - collaborative app (Kotlin, JavaScript)
 
