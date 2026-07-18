@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:EC4899&height=200&section=header&text=Ishita%20Tyagi&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=CS%20%40%20IIT%20Jodhpur%20%E2%80%A2%20SWE%20%7C%20Data%20Analyst%20%7C%20Researcher&descAlignY=60&descSize=18" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=Distributed+Systems+%7C+CV+%26+ML+%7C+Low-Latency+Backends;CGPA+9.01%2F10+%7C+CF+Specialist+1433+%7C+Inter+IIT+3rd+Rank;Financial+Modeling+%7C+Market+Research+%7C+Quant+Analysis;Open+to+SWE%2C+Analyst+%26+Research+Internships)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C084FC&center=true&vCenter=true&width=750&lines=Distributed+Systems+%7C+CV+%26+ML+%7C+Low-Latency+Backends;CGPA+9.01%2F10+%7C+CF+Specialist+1433+%7C+Inter+IIT+3rd+Rank;Open+to+SWE%2C+Analyst+%26+Research+Internships)](https://git.io/typing-svg)
 
 <a href="https://github.com/ishita-0301"><img src="https://komarev.com/ghpvc/?username=ishita-0301&label=Profile+Views&color=c084fc&style=flat-square"/></a>
 &nbsp;
